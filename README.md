@@ -6,6 +6,8 @@ A collection of card demos with simple hover effects in them. Recreated from Onl
 <img src="https://user-images.githubusercontent.com/100323338/191634092-455b9b97-2109-4d66-9165-2f3fc6144778.JPG">
 </div>
 
+A simple 3D card hover effect with color gradient.
+
 ## Credits
 * Original code by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) on YouTube
 * Recreated by me.
