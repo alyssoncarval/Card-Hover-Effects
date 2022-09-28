@@ -7,4 +7,11 @@ Card hover effects is something of my interest to study. So here, you are going 
 </div>
 
 Real Glassmorphism Card Hover Effect.<br>
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) on YouTube.
+[Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) on YouTube.
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/192661471-5744e825-f8d7-49c6-9c32-7cd5935bd6d0.png">
+</div>
+
+Shrink Card Hover Effect.<br>
+[Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) on YouTube.
